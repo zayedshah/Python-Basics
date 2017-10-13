@@ -1,3 +1,3 @@
 # Python-Basics
 
-Consolidation of Python Basics.
+Consolidation of Python Basics
