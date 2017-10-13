@@ -1,3 +1,1 @@
-# Python-Basics
-
-Consolidation of Python Basics
+Python knowledge repository
