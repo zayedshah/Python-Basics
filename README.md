@@ -1,1 +1,1 @@
-Python knowledge repository
+Python notes
